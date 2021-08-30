@@ -1,5 +1,5 @@
 from gitfiti import find_max_daily_commits, parse_contributions_calendar
-
+# Test
 
 CONTRIBUTIONS_CALENDAR_SVG = '''\
 <svg width="721" height="110" class="js-calendar-graph-svg">
